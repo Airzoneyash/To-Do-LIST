@@ -23,5 +23,6 @@ function k()
     done.onclick=function()
     {
         node.style.color="green";
+        node.style.textDecoration="line-through";
     }
 }
