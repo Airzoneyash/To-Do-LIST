@@ -1,0 +1,37 @@
+h1{
+    background-color: #513252;
+    text-align: center;
+    color: #FFC18E;
+}
+.form{
+    visibility: hidden;
+}
+div:nth-of-type(2)
+{
+    padding: 20px;   
+}
+div input
+{
+    margin-right: 50px;
+}
+table{
+    border: 2px black solid;
+}
+li{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-family: sans-serif;
+    color: #513252;
+}
+ul{
+    list-style: upper-roman;
+}
+.top
+{
+    border: 5px solid black;
+}
+button{
+    margin-left: 10px;
+    background-color: #513252;
+    color: white;
+}
