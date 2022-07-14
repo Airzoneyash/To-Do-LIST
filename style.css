@@ -3,9 +3,6 @@ h1{
     text-align: center;
     color: #FFC18E;
 }
-.form{
-    visibility: hidden;
-}
 div:nth-of-type(2)
 {
     padding: 20px;   
